@@ -11,6 +11,6 @@
 <br>
 <details>
 <summary>Усложнённый квиз</summary>
-Файл - [hard_quiz.py](hard_quiz.py)<br>
+Файл - <a href=hard_quiz.py>hard_quiz.py</a><br>
 
 </details>
