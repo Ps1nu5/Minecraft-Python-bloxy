@@ -18,4 +18,4 @@ def sierpinski_carpet(x, y, z, size, depth):
             sierpinski_carpet(x + i * step, y, z + j * step, step, depth - 1)
 
 x, y, z = mc.player.getPos()
-sierpinski_carpet(int(x), int(y), int(z), 243, 5)  # Размер = 27, глубина = 3
+sierpinski_carpet(int(x), int(y), int(z), 243, 5)  

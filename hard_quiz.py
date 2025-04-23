@@ -80,4 +80,4 @@ for q in quiz:
         mc.setBlock(x, START_Y, z, block.AIR.id)
     time.sleep(1)
 
-mc.postToChat("🏁 Викторина завершена!")
+mc.postToChat("Викторина завершена!")
