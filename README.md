@@ -10,6 +10,7 @@
 </details>
 <br>
 <details>
-<summary>Проект 2</summary>
-Описание проекта 2
+<summary>Усложнённый квиз</summary>
+Файл - [hard_quiz.py](hard_quiz.py)<br>
+
 </details>
